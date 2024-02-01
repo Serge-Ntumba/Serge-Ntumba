@@ -1,6 +1,7 @@
 ### Hi there 👋
 
 ![<Badge Name>](https://img.shields.io/badge/<Badge Text>-<Background Color>?style=for-the-badge&logo=<Icon Name>&logoColor=<Logo Color>)
+#017CEE
 - 🔭 I’m a Data Engineer 
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
