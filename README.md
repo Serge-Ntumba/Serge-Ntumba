@@ -92,7 +92,7 @@
   <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/sergentumba/" height="30" width="40" />
 </a>
   <a href="https://medium.com/@s7ntumba" target="blank">
-  <img align="center" src="https://en.wikipedia.org/wiki/Medium_(website)#/media/File:Medium_(website)_logo.svg" alt="https://www.linkedin.com/in/sergentumba/" height="30" width="40" />
+  <img align="center" src="https://upload.wikimedia.org/wikipedia/commons/0/0d/Medium_%28website%29_logo.svg" alt="https://www.linkedin.com/in/sergentumba/" height="30" width="40" />
 </a>
 
   </a>
