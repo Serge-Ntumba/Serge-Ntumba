@@ -93,6 +93,7 @@
 </a>
   <a href="https://medium.com/@s7ntumba" target="blank">
   <img align="center" src="https://upload.wikimedia.org/wikipedia/commons/0/0d/Medium_%28website%29_logo.svg" alt="https://www.linkedin.com/in/sergentumba/" height="30" width="40" />
+    <img src="https://camo.githubusercontent.com/7dd523dbab1599c60167ae8d9da0403f1909cf71c8e04f020d25557899222210/68747470733a2f2f63646e342e69636f6e66696e6465722e636f6d2f646174612f69636f6e732f736f6369616c2d6d656469612d636972636c652d372f3531322f4d656469756d5f636972636c652d3531322e706e67" style="height: 3rem; max-width: 100%;" data-canonical-src="https://cdn4.iconfinder.com/data/icons/social-media-circle-7/512/Medium_circle-512.png"/>
 </a>
 
   </a>
