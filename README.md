@@ -94,5 +94,10 @@
   <a href="https://medium.com/@s7ntumba" target="blank">
   <img align="center" src="https://i.postimg.cc/wB8DVB7v/medium-icon-svgrepo-com.png" alt="https://www.linkedin.com/in/sergentumba/" height="30" width="40" />
 </a>
+
+  </a>
+  <a href="https://medium.com/@s7ntumba" target="blank">
+  <img align="center" src="https://www.svgrepo.com/svg/353780/github-icon" alt="https://www.linkedin.com/in/sergentumba/" height="30" width="40" />
+</a>
 </p>
 
