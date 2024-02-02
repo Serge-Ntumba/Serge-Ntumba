@@ -1,5 +1,6 @@
 
 <h1 align="center">Hi there 👋, I'm Serge</h1>
+<h2 align="center"> I am all about Data Engineering | ML </h2>
 <p align="center">My journey into data engineering has been marked by a passion for solving complex problems and a commitment to continuous improvement. From crafting seamless user experiences as a Front End Developer to architecting robust data solutions, I've demonstrated adaptability, resilience, and a thirst for knowledge. In my role as a Data Engineer, I thrive on challenges, whether it's designing efficient data pipelines, optimizing database performance, or leveraging emerging technologies to drive innovation. I believe in the power of sustainable solutions and am dedicated to delivering results that not only meet immediate needs but also set the stage for long-term success. My approach to work is grounded in a strong foundation of theoretical knowledge coupled with hands-on experience. I continuously invest in my professional development, staying abreast of the latest trends and best practices in data engineering, distributed computing, big data applications, cloud environments, and beyond. My proficiency in SQL and Python enables me to craft intricate scripts and queries that drive insights and inform decision-making.</p>
 
 - 🔭 I’m currently working on **Data Engineering Projects**
@@ -88,6 +89,9 @@
   <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="https://twitter.com/sergentumba4" height="30" width="40" />
 </a>
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/sergentumba/" target="blank">
+  <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/sergentumba/" height="30" width="40" />
+</a>
+  <a href="https://medium.com/@s7ntumba" target="blank">
   <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/sergentumba/" height="30" width="40" />
 </a>
 </p>
