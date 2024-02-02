@@ -56,5 +56,6 @@
 
 </div>
 
-📝 I regularly write articles about various technologies on [https://www.devserge.com/blog](https://www.devserge.com/blog)
+<p align="center">📝 I regularly write articles about various technologies on:</p>
+<h3 align="center">[https://www.devserge.com/blog](https://www.devserge.com/blog)</h3>
 
