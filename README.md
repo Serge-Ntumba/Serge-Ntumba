@@ -57,5 +57,9 @@
 </div>
 
 <p align="center">📝 I regularly write articles about various technologies on:</p>
-<h3 align="center">[https://www.devserge.com/blog](https://www.devserge.com/blog)</h3>
+<h3 align="center">
+  <a align="center" href="https://www.devserge.com/blog">
+    My blog
+  </a>
+</h3>
 
