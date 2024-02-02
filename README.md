@@ -1,7 +1,7 @@
 ### Hi there 👋
 
-<h1 align="center">Hi 👋, I'm Serge</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
+<h1 align="center">Hi there 👋, I'm Serge</h1>
+<h3 align="center">My journey into data engineering has been marked by a passion for solving complex problems and a commitment to continuous improvement. From crafting seamless user experiences as a Front End Developer to architecting robust data solutions, I've demonstrated adaptability, resilience, and a thirst for knowledge. In my role as a Data Engineer, I thrive on challenges, whether it's designing efficient data pipelines, optimizing database performance, or leveraging emerging technologies to drive innovation. I believe in the power of sustainable solutions and am dedicated to delivering results that not only meet immediate needs but also set the stage for long-term success. My approach to work is grounded in a strong foundation of theoretical knowledge coupled with hands-on experience. I continuously invest in my professional development, staying abreast of the latest trends and best practices in data engineering, distributed computing, big data applications, cloud environments, and beyond. My proficiency in SQL and Python enables me to craft intricate scripts and queries that drive insights and inform decision-making.</h3>
 
 - 🔭 I’m currently working on **Data Engineering Projects**
 
